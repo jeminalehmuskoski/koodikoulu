@@ -20,7 +20,7 @@ manflu = input("I heard you caught a tough case of the manflu :( Is that true? y
 
 if manflu == "y":
 
-                print("You poor thing! Here's a little something to cheer you up." )
+                print("You poor thing! Here's a little something to cheer you up!" )
 
                 import webbrowser
 
